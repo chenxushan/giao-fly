@@ -23,8 +23,8 @@ public class IfElseSoulation {
     }
     private double calculateVone(float income){
         double tax = 0;
-        Map<Float, Function<Float>> actionMappings = new HashMap<>();
-        actionMappings.put();
+//        Map<Float, Function<Float>> actionMappings = new HashMap<>();
+//        actionMappings.put();
         return tax;
     }
 
