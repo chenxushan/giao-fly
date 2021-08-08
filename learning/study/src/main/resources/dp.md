@@ -63,13 +63,6 @@ public int fib(int n) {
 ![fibmemo](./pic/fib1.JPG)
 ![fibmemo](./pic/fib_dp.JPG)
 
-$$\begin{cases}
-a_1x+b_1y+c_1z=d_1\\
-a_2x+b_2y+c_2z=d_2\\
-a_3x+b_3y+c_3z=d_3\\
-\end{cases}
-$$
-
 #### Related question
 - [leetcode 70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 
